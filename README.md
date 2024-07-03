@@ -3,6 +3,7 @@
 I am Sophie, a statistician that LOVES teaching. I am committed to delivering **engaging**, **accessible** training in statistics and R coding, proving that statistics does NOT need to be scary 👻
 
 📖 I am in the process of making ALL materials for my courses open-source and free as I believe science should not have a paywall. 
+
 ☕ If you would like to support me in my mission, [click here](https://buymeacoffee.com/sophie_a_lee) to keep me fulled by caffeine.
 
 ## Live teaching 👩‍🏫
