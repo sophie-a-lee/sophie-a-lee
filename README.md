@@ -7,13 +7,13 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 ☕ If you would like to support me in my mission, [click here](https://buymeacoffee.com/sophie_a_lee) to keep me fueled by caffeine.
 
 ## Live teaching 👩‍🏫
-- Introduction to R with Tidyverse [web](https://scubed.netlify.app/courses/1_intro_r_tidyverse/) [materials](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) [Next date](https://instats.org/seminar/introduction-to-r-with-tidyverse-2542)
-- Data visualisation with R [web](https://scubed.netlify.app/courses/3_data_viz/) 🔜materials [Next date](https://www.ncrm.ac.uk/training/show.php?article=13619)
-- Statistical Thinking [web](https://scubed.netlify.app/courses/9_statistical_thinking/) [materials](https://github.com/sophie-a-lee/statistical_thinking/)
-- Regressions with R [web](https://scubed.netlify.app/courses/7_regression_with_r/) 🔜materials
-- Bayesian statistics with R [web](https://scubed.netlify.app/courses/(8_bayesian_stats/) 🔜materials
-- Generalised additive models with R [web](https://scubed.netlify.app/courses/6_generalised_additive_models/) 🔜materials
-- Spatial data analysis with R [web](https://scubed.netlify.app/courses/2_spatial_data_analysis/) 🔜materials
+- Introduction to R with Tidyverse | [web](https://scubed.netlify.app/courses/1_intro_r_tidyverse/) | [materials](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [Next date](https://instats.org/seminar/introduction-to-r-with-tidyverse-2542)
+- Data visualisation with R | [web](https://scubed.netlify.app/courses/3_data_viz/) | 🔜materials | [Next date](https://www.ncrm.ac.uk/training/show.php?article=13619)
+- Statistical Thinking | [web](https://scubed.netlify.app/courses/9_statistical_thinking/) | [materials](https://github.com/sophie-a-lee/statistical_thinking/)
+- Regressions with R | [web](https://scubed.netlify.app/courses/7_regression_with_r/) | 🔜materials
+- Bayesian statistics with R | [web](https://scubed.netlify.app/courses/8_bayesian_stats/) | 🔜materials
+- Generalised additive models with R | [web](https://scubed.netlify.app/courses/6_generalised_additive_models/) | 🔜materials
+- Spatial data analysis with R | [web](https://scubed.netlify.app/courses/2_spatial_data_analysis/) | 🔜materials
 
 ## Online courses 💻
 - Inferential statistics [enroll for free](https://equationsofdisease.com/courses/inferential-statistics/)
