@@ -7,8 +7,8 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 ☕ If you would like to support me in my mission, [click here](https://buymeacoffee.com/sophie_a_lee) to keep me fueled by caffeine.
 
 ## Live teaching 👩‍🏫
-- Introduction to R with Tidyverse | [web](https://scubed.netlify.app/courses/1_intro_r_tidyverse/) | [materials](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [Next date](https://instats.org/seminar/introduction-to-r-with-tidyverse-2542)
-- Data visualisation with R | [web](https://scubed.netlify.app/courses/3_data_viz/) | 🔜materials | [Next date](https://www.ncrm.ac.uk/training/show.php?article=13619)
+- Introduction to R with Tidyverse | [web](https://scubed.netlify.app/courses/1_intro_r_tidyverse/) | [materials](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [next date](https://instats.org/seminar/introduction-to-r-with-tidyverse-2542)
+- Data visualisation with R | [web](https://scubed.netlify.app/courses/3_data_viz/) | 🔜materials | [next date](https://www.ncrm.ac.uk/training/show.php?article=13619)
 - Statistical Thinking | [web](https://scubed.netlify.app/courses/9_statistical_thinking/) | [materials](https://github.com/sophie-a-lee/statistical_thinking/)
 - Regressions with R | [web](https://scubed.netlify.app/courses/7_regression_with_r/) | 🔜materials
 - Bayesian statistics with R | [web](https://scubed.netlify.app/courses/8_bayesian_stats/) | 🔜materials
@@ -16,9 +16,9 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 - Spatial data analysis with R | [web](https://scubed.netlify.app/courses/2_spatial_data_analysis/) | 🔜materials
 
 ## Online courses 💻
-- Inferential statistics [enroll for free](https://equationsofdisease.com/courses/inferential-statistics/)
-- Introduction to statistics [web](https://scubed.netlify.app/courses/4_intro_stats/)
-- Principles of data visualisation **free course coming soon**
+- Inferential statistics | [enroll for free](https://equationsofdisease.com/courses/inferential-statistics/)
+- Introduction to statistics | [web](https://scubed.netlify.app/courses/4_intro_stats/)
+- Principles of data visualisation | **free course coming soon**
 
 ## Research interests 👩‍🔬
 - 🗺️ [Spatial data analysis](https://scubed.rbind.io/publications/4_systematic_review/)
