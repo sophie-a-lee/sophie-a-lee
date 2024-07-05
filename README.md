@@ -30,4 +30,4 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 - [My website](https://scubed.rbind.io/)
 - [Email](mailto:sophie.a.lee10@gmail.com)
 - [Twitter](https://x.com/SophieStats10)
-- [Linkedin](https://www.linkedin.com/in/sophie-lee-51905587/)
+- [Linkedin](https://www.linkedin.com/in/sophie-a-lee/)
