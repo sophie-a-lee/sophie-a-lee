@@ -20,6 +20,10 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 - Introduction to statistics | [web](https://scubed.netlify.app/courses/4_intro_stats/)
 - Principles of data visualisation | **free course coming soon**
 
+## Bespoke courses 📜
+- Introduction to quantitative analysis with R | written for UK Department for levelling up, housing, and communities | [material](https://intro-r-dluch.netlify.app/)
+- Statistical thinking | written for the UK Ministry of Justice | [material](https://github.com/sophie-a-lee/statistical_thinking/)
+
 ## Research interests 👩‍🔬
 - 🗺️ [Spatial data analysis](https://scubed.rbind.io/publications/4_systematic_review/)
 - 📈 [Bayesian modelling](https://scubed.rbind.io/publications/2_bayesian_model/)
