@@ -9,7 +9,7 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 ## 👩‍🏫 Live teaching 
 - Introduction to R with Tidyverse | [web](https://scubed.netlify.app/courses/1_intro_r_tidyverse/) | [materials](https://introduction-r-tidyverse.netlify.app/) | [next date](https://www.prstats.org/course/introduction-to-r-using-tidyverse-tidy01/)
 - Data visualisation with R | [web](https://scubed.netlify.app/courses/3_data_viz/) | 🔜materials | [next date](https://www.ncrm.ac.uk/training/show.php?article=13619)
-- Statistical Thinking | [web](https://scubed.netlify.app/courses/9_statistical_thinking/) | [materials](https://github.com/sophie-a-lee/statistical_thinking/)
+- Statistical Thinking | [web](https://scubed.netlify.app/courses/9_statistical_thinking/) | [materials](https://stats-thinking.netlify.app/)
 - Regressions with R | [web](https://scubed.netlify.app/courses/7_regression_with_r/) | 🔜materials
 - Bayesian statistics with R | [web](https://scubed.netlify.app/courses/8_bayesian_stats/) | 🔜materials
 - Generalised additive models with R | [web](https://scubed.netlify.app/courses/6_generalised_additive_models/) | 🔜materials
@@ -23,7 +23,7 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 
 ## 📜 Bespoke courses 
 - Introduction to quantitative analysis with R | written for UK Department for levelling up, housing, and communities | [free materials](https://intro-r-dluch.netlify.app/)
-- Statistical thinking | written for the UK Ministry of Justice | [free materials](https://github.com/sophie-a-lee/statistical_thinking/)
+- Statistical thinking | written for the UK Ministry of Justice | [free materials](https://stats-thinking.netlify.app/)
 
 ## 👩‍🔬 Research interests 
 - 🗺️ [Spatial data analysis](https://scubed.rbind.io/publications/4_systematic_review/)
