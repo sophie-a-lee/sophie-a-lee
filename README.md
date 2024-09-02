@@ -12,14 +12,13 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 - Statistical Thinking | [web](https://scubed.netlify.app/courses/9_statistical_thinking/) | [materials](https://stats-thinking.netlify.app/)
 - Regressions with R | [web](https://scubed.netlify.app/courses/7_regression_with_r/) | 🔜materials
 - Bayesian statistics with R | [web](https://scubed.netlify.app/courses/8_bayesian_stats/) | 🔜materials
-- Generalised additive models with R | [web](https://scubed.netlify.app/courses/6_generalised_additive_models/) | 🔜materials
-- Spatial data analysis with R | [web](https://scubed.netlify.app/courses/2_spatial_data_analysis/) | 🔜materials
+- Generalised additive models with R | [web](https://scubed.netlify.app/courses/6_generalised_additive_models/) | 🔜materials | [next date](https://www.prstats.org/course/generalised-additive-models-gams-with-r-gamr03/)
+- Spatial data analysis with R | [web](https://scubed.netlify.app/courses/2_spatial_data_analysis/) | 🔜materials | [next date](https://www.prstats.org/course/spatial-data-analysis-with-r-sdar01/)
 
 ## 💻 Asynchronous materials
+- Introduction to statistics | [web](https://equationsofdisease.com/courses/introduction-to-statistics/)
 - Inferential statistics | [enroll for free](https://equationsofdisease.com/courses/inferential-statistics/)
-- Introduction to statistics | [web](https://scubed.netlify.app/courses/4_intro_stats/)
 - Principles of data visualisation | [free materials](https://www.ncrm.ac.uk/resources/online/all/?id=20844)
-- Introduction to R with tidyverse | [web](https://instats.org/seminar/introduction-to-r-with-tidyverse3)
 
 ## 📜 Bespoke courses 
 - Introduction to quantitative analysis with R | written for UK Department for levelling up, housing, and communities | [free materials](https://intro-r-dluch.netlify.app/)
