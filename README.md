@@ -16,8 +16,8 @@ I am Sophie, a statistician that LOVES teaching. I am committed to delivering **
 - Spatial data analysis with R | [web](https://scubed.netlify.app/courses/2_spatial_data_analysis/) | 🔜materials | [next date](https://www.prstats.org/course/spatial-data-analysis-with-r-sdar01/)
 
 ## 💻 Asynchronous materials
-- Introduction to statistics | [web](https://equationsofdisease.com/courses/introduction-to-statistics/)
-- Inferential statistics | [enroll for free](https://equationsofdisease.com/courses/inferential-statistics/)
+- Introduction to statistics | [enroll online](https://equationsofdisease.com/courses/introduction-to-statistics/)
+- Inferential statistics | [enroll online for free](https://equationsofdisease.com/courses/inferential-statistics/)
 - Principles of data visualisation | [free materials](https://www.ncrm.ac.uk/resources/online/all/?id=20844)
 
 ## 📜 Bespoke courses 
